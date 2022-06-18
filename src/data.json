@@ -1,0 +1,1561 @@
+[
+  {
+    "id": 101,
+    "name": "Xerath",
+    "title": "the Magus Ascendant",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Shyvana",
+    "title": "the Half-Dragon",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Ahri",
+    "title": "the Nine-Tailed Fox",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "assassin"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Graves",
+    "title": "the Outlaw",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Fizz",
+    "title": "the Tidal Trickster",
+    "damageType": "kMagic",
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Volibear",
+    "title": "the Relentless Storm",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Rengar",
+    "title": "the Pridestalker",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Kayle",
+    "title": "the Righteous",
+    "damageType": "kMixed",
+    "roles": [
+      "fighter",
+      "support"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Varus",
+    "title": "the Arrow of Retribution",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Nautilus",
+    "title": "the Titan of the Depths",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Viktor",
+    "title": "the Machine Herald",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Sejuani",
+    "title": "Fury of the North",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Fiora",
+    "title": "the Grand Duelist",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Ziggs",
+    "title": "the Hexplosives Expert",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Lulu",
+    "title": "the Fae Sorceress",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Draven",
+    "title": "the Glorious Executioner",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Master Yi",
+    "title": "the Wuju Bladesman",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Hecarim",
+    "title": "the Shadow of War",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Kha'Zix",
+    "title": "the Voidreaver",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Darius",
+    "title": "the Hand of Noxus",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Jayce",
+    "title": "the Defender of Tomorrow",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "marksman"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Lissandra",
+    "title": "the Ice Witch",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Alistar",
+    "title": "the Minotaur",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Diana",
+    "title": "Scorn of the Moon",
+    "damageType": "kMagic",
+    "roles": [
+      "fighter",
+      "mage"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Quinn",
+    "title": "Demacia's Wings",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Syndra",
+    "title": "the Dark Sovereign",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Aurelion Sol",
+    "title": "The Star Forger",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ryze",
+    "title": "the Rune Mage",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "fighter"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Kayn",
+    "title": "the Shadow Reaper",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Zoe",
+    "title": "the Aspect of Twilight",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Zyra",
+    "title": "Rise of the Thorns",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Kai'Sa",
+    "title": "Daughter of the Void",
+    "damageType": "kMixed",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Seraphine",
+    "title": "the Starry-Eyed Songstress",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sion",
+    "title": "The Undead Juggernaut",
+    "damageType": "kPhysical",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Gnar",
+    "title": "the Missing Link",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Zac",
+    "title": "the Secret Weapon",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Yasuo",
+    "title": "the Unforgiven",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Sivir",
+    "title": "the Battle Mistress",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Vel'Koz",
+    "title": "the Eye of the Void",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Taliyah",
+    "title": "the Stoneweaver",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Camille",
+    "title": "the Steel Shadow",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Akshan",
+    "title": "the Rogue Sentinel",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Soraka",
+    "title": "the Starchild",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Teemo",
+    "title": "the Swift Scout",
+    "damageType": "kMagic",
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Tristana",
+    "title": "the Yordle Gunner",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Warwick",
+    "title": "the Uncaged Wrath of Zaun",
+    "damageType": "kMixed",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Annie",
+    "title": "the Dark Child",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Bel'Veth",
+    "title": "the Empress of the Void",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Braum",
+    "title": "the Heart of the Freljord",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "tank"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Jhin",
+    "title": "the Virtuoso",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Kindred",
+    "title": "The Eternal Hunters",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nunu & Willump",
+    "title": "the Boy and His Yeti",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Miss Fortune",
+    "title": "the Bounty Hunter",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Zeri",
+    "title": "The Spark of Zaun",
+    "damageType": "kMixed",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Jinx",
+    "title": "the Loose Cannon",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Tahm Kench",
+    "title": "The River King",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "tank"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Ashe",
+    "title": "the Frost Archer",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "support"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Viego",
+    "title": "The Ruined King",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Senna",
+    "title": "the Redeemer",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "support"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Lucian",
+    "title": "the Purifier",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Zed",
+    "title": "the Master of Shadows",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Tryndamere",
+    "title": "the Barbarian King",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Kled",
+    "title": "the Cantankerous Cavalier",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Ekko",
+    "title": "the Boy Who Shattered Time",
+    "damageType": "kMagic",
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Qiyana",
+    "title": "Empress of the Elements",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Jax",
+    "title": "Grandmaster at Arms",
+    "damageType": "kMixed",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Vi",
+    "title": "the Piltover Enforcer",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Morgana",
+    "title": "the Fallen",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Aatrox",
+    "title": "the Darkin Blade",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Nami",
+    "title": "the Tidecaller",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Azir",
+    "title": "the Emperor of the Sands",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "marksman"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Zilean",
+    "title": "the Chronokeeper",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Singed",
+    "title": "the Mad Chemist",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Evelynn",
+    "title": "Agony's Embrace",
+    "damageType": "kMagic",
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Twitch",
+    "title": "the Plague Rat",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Olaf",
+    "title": "the Berserker",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Karthus",
+    "title": "the Deathsinger",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Cho'Gath",
+    "title": "the Terror of the Void",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Amumu",
+    "title": "the Sad Mummy",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Rammus",
+    "title": "the Armordillo",
+    "damageType": "kMixed",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Anivia",
+    "title": "the Cryophoenix",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Yuumi",
+    "title": "the Magical Cat",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Shaco",
+    "title": "the Demon Jester",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Samira",
+    "title": "the Desert Rose",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Dr. Mundo",
+    "title": "the Madman of Zaun",
+    "damageType": "kMixed",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Sona",
+    "title": "Maven of the Strings",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Kassadin",
+    "title": "the Void Walker",
+    "damageType": "kMagic",
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Irelia",
+    "title": "the Blade Dancer",
+    "damageType": "kMixed",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Galio",
+    "title": "the Colossus",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Janna",
+    "title": "the Storm's Fury",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Thresh",
+    "title": "the Chain Warden",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "fighter"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Gangplank",
+    "title": "the Saltwater Scourge",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Illaoi",
+    "title": "the Kraken Priestess",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Rek'Sai",
+    "title": "the Void Burrower",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Ivern",
+    "title": "the Green Father",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Kalista",
+    "title": "the Spear of Vengeance",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Corki",
+    "title": "the Daring Bombardier",
+    "damageType": "kMixed",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Bard",
+    "title": "the Wandering Caretaker",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Karma",
+    "title": "the Enlightened One",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Taric",
+    "title": "the Shield of Valoran",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "fighter"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Veigar",
+    "title": "the Tiny Master of Evil",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Trundle",
+    "title": "the Troll King",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Rakan",
+    "title": "The Charmer",
+    "damageType": "kMagic",
+    "roles": [
+      "support"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Xayah",
+    "title": "the Rebel",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Twisted Fate",
+    "title": "the Card Master",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Swain",
+    "title": "the Noxian Grand General",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "fighter"
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Ornn",
+    "title": "The Fire below the Mountain",
+    "damageType": "kMixed",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Sylas",
+    "title": "the Unshackled",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "assassin"
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Neeko",
+    "title": "the Curious Chameleon",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Caitlyn",
+    "title": "the Sheriff of Piltover",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Aphelios",
+    "title": "the Weapon of the Faithful",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": 526,
+    "name": "Rell",
+    "title": "the Iron Maiden",
+    "damageType": "kMagic",
+    "roles": [
+      "tank"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Blitzcrank",
+    "title": "the Great Steam Golem",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Malphite",
+    "title": "Shard of the Monolith",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Pyke",
+    "title": "the Bloodharbor Ripper",
+    "damageType": "kPhysical",
+    "roles": [
+      "support",
+      "assassin"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Katarina",
+    "title": "the Sinister Blade",
+    "damageType": "kMagic",
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Nocturne",
+    "title": "the Eternal Nightmare",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Maokai",
+    "title": "the Twisted Treant",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Renekton",
+    "title": "the Butcher of the Sands",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Jarvan IV",
+    "title": "the Exemplar of Demacia",
+    "damageType": "kPhysical",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Xin Zhao",
+    "title": "the Seneschal of Demacia",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Elise",
+    "title": "the Spider Queen",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "fighter"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Orianna",
+    "title": "the Lady of Clockwork",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Wukong",
+    "title": "the Monkey King",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Brand",
+    "title": "the Burning Vengeance",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Lee Sin",
+    "title": "the Blind Monk",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Vayne",
+    "title": "the Night Hunter",
+    "damageType": "kPhysical",
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Rumble",
+    "title": "the Mechanized Menace",
+    "damageType": "kMagic",
+    "roles": [
+      "fighter",
+      "mage"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Cassiopeia",
+    "title": "the Serpent's Embrace",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Urgot",
+    "title": "the Dreadnought",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 711,
+    "name": "Vex",
+    "title": "the Gloomist",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Skarner",
+    "title": "the Crystal Vanguard",
+    "damageType": "kMixed",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Heimerdinger",
+    "title": "the Revered Inventor",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Nasus",
+    "title": "the Curator of the Sands",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Nidalee",
+    "title": "the Bestial Huntress",
+    "damageType": "kMagic",
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": 777,
+    "name": "Yone",
+    "title": "the Unforgotten",
+    "damageType": "kMixed",
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Udyr",
+    "title": "the Spirit Walker",
+    "damageType": "kMixed",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Poppy",
+    "title": "Keeper of the Hammer",
+    "damageType": "kPhysical",
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Gragas",
+    "title": "the Rabble Rouser",
+    "damageType": "kMagic",
+    "roles": [
+      "fighter",
+      "mage"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "LeBlanc",
+    "title": "the Deceiver",
+    "damageType": "kMagic",
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Pantheon",
+    "title": "the Unbreakable Spear",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Ezreal",
+    "title": "the Prodigal Explorer",
+    "damageType": "kMagic",
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Mordekaiser",
+    "title": "the Iron Revenant",
+    "damageType": "kMagic",
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Yorick",
+    "title": "Shepherd of Souls",
+    "damageType": "kMixed",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Akali",
+    "title": "the Rogue Assassin",
+    "damageType": "kMixed",
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Kennen",
+    "title": "the Heart of the Tempest",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "marksman"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Garen",
+    "title": "The Might of Demacia",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 875,
+    "name": "Sett",
+    "title": "the Boss",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": 876,
+    "name": "Lillia",
+    "title": "the Bashful Bloom",
+    "damageType": "kMagic",
+    "roles": [
+      "fighter",
+      "mage"
+    ]
+  },
+  {
+    "id": 887,
+    "name": "Gwen",
+    "title": "The Hallowed Seamstress",
+    "damageType": "kMagic",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 888,
+    "name": "Renata Glasc",
+    "title": "the Chem-Baroness",
+    "damageType": "kMagic",
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Leona",
+    "title": "the Radiant Dawn",
+    "damageType": "kMagic",
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Vladimir",
+    "title": "the Crimson Reaper",
+    "damageType": "kMagic",
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Malzahar",
+    "title": "the Prophet of the Void",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "assassin"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Talon",
+    "title": "the Blade's Shadow",
+    "damageType": "kPhysical",
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Riven",
+    "title": "the Exile",
+    "damageType": "kPhysical",
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Kog'Maw",
+    "title": "the Mouth of the Abyss",
+    "damageType": "kMixed",
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Shen",
+    "title": "the Eye of Twilight",
+    "damageType": "kMixed",
+    "roles": [
+      "tank"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Lux",
+    "title": "the Lady of Luminosity",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Fiddlesticks",
+    "title": "the Ancient Fear",
+    "damageType": "kMagic",
+    "roles": [
+      "mage",
+      "support"
+    ]
+  }
+]
