@@ -1,14 +1,14 @@
 import { Models } from "./types/main";
-import {Dispatch, SetStateAction} from "react";
+import { useContext } from "react";
+import ChampContext from "./components/ChampContext";
 
 interface Props {
   x: number,
   champ: Models.Champion;
-  champions: Models.Champion[];
-  setChampions: Dispatch<SetStateAction<Models.Champion[]>>;
 }
 
-const Champ = ({ x, champ, champions, setChampions }: Props) => {
+const Champ = ({ x, champ }: Props) => {
+  const { champions, setChampions } = useContext(ChampContext);
 
   const selectChampion = () => {
     const newChampions = [...champions];
@@ -21,7 +21,7 @@ const Champ = ({ x, champ, champions, setChampions }: Props) => {
   return (
     <div className="champ-container" onClick={selectChampion}>
       <img className="champ-icon" src={champ.icon} alt={champ.title} />
-      <img className="champ-overlay" src="/Red_Cross.png" height={120} width={120} hidden={!champ.selected} />
+      <img className="champ-overlay" src="/Red_Cross.png" height={120} width={120} hidden={!champ.selected} alt={champ.title} />
     </div>
   )
 }

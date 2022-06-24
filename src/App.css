@@ -15,19 +15,25 @@
 
 #champion-grid {
   display: flex;
-  width: 100vh;
+  width: calc(100% - 30vh);
   flex-flow: row wrap;
   justify-content: flex-start;
 }
 
 #filters {
-  background-color: darkgray;
+  background-color: #3F3F3F;
   border-style: solid;
   border-radius: 15px;
   border-color: #262626;
   display: flex;
+  flex-flow: column nowrap;
+  padding: 6px;
   min-width: 30vh;
   min-height: 100%;
+}
+
+.filter {
+  text-align: left;
 }
 
 .champ-container {
