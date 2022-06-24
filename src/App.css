@@ -1,6 +1,5 @@
 .App {
   align-items: flex-start;
-  background-color: #262626;
   color: white;
   display: flex;
   flex-direction: row;
@@ -15,12 +14,20 @@
 
 #champion-grid {
   display: flex;
-  width: calc(100% - 30vh);
+  width: calc(100% - 10vh);
   flex-flow: row wrap;
   justify-content: flex-start;
 }
 
-#filters {
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.filter {
+  margin-bottom: 2em;
+  text-align: left;
   background-color: #3F3F3F;
   border-style: solid;
   border-radius: 15px;
@@ -28,12 +35,12 @@
   display: flex;
   flex-flow: column nowrap;
   padding: 6px;
-  min-width: 30vh;
-  min-height: 100%;
+  font-size: 24px;
 }
 
-.filter {
-  text-align: left;
+#filter-section {
+  min-width: 10vh;
+
 }
 
 .champ-container {

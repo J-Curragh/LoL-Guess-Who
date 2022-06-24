@@ -1,16 +1,16 @@
-import React, {useEffect, useState} from 'react';
+import {useEffect, useState} from 'react';
 import './App.css';
-import fetchChamps from "./fetchChamps";
 import Champ from "./Champ";
 import {Models} from "./types/main";
 import ChampContext from "./components/ChampContext";
 import Filters from "./components/Filters/Filters";
+import allChampions from './fetchChamps';
 
 function App() {
   const [champions, setChampions] = useState<Models.Champion[]>([])
 
   useEffect(() => {
-    setChampions(fetchChamps());
+    setChampions(allChampions);
   }, [])
 
   return (
@@ -23,7 +23,8 @@ function App() {
                    champ={champ} />
           )}
         </div>
-        <div id="filters">
+        <div id="filter-section">
+          <h1>Settings</h1>
           <Filters />
         </div>
       </div>

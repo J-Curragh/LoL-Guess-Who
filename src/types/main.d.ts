@@ -17,8 +17,8 @@ export namespace Models {
     roles: RolePosition[]
   }
 
-  type RolePosition = 'Top' | 'Jungle' | 'Middle' | 'Bottom' | 'Support';
-  type DamageType = 'kPhysical' | 'kMixed' | 'kMagic';
+  export type RolePosition = 'any' | 'mage' | 'assassin' | 'marksman' | 'fighter' | 'tank' | 'support';
+  export type DamageType = 'kPhysical' | 'kMixed' | 'kMagic';
 }
 
 declare module "*.json" {

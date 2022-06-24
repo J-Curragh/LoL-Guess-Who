@@ -20,8 +20,8 @@ const Champ = ({ x, champ }: Props) => {
 
   return (
     <div className="champ-container" onClick={selectChampion}>
-      <img className="champ-icon" src={champ.icon} alt={champ.title} />
-      <img className="champ-overlay" src="/Red_Cross.png" height={120} width={120} hidden={!champ.selected} alt={champ.title} />
+      <img className="champ-icon" src={champ.icon} alt={champ.title} draggable={false} />
+      <img className="champ-overlay" src="/Red_Cross.png" height={120} width={120} hidden={!champ.selected} alt={champ.title} draggable={false} />
     </div>
   )
 }

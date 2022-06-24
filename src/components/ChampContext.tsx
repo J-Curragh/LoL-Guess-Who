@@ -1,6 +1,6 @@
 import React from 'react';
 import { Models } from "../types/main";
-import fetchChamps from "../fetchChamps";
+import allChampions from '../fetchChamps';
 
 interface Props {
   champions: Models.Champion[];
@@ -8,7 +8,7 @@ interface Props {
 }
 
 const defaultValue: Props = {
-  champions: fetchChamps(),
+  champions: allChampions, 
   setChampions: () => {/**/}
 };
 
