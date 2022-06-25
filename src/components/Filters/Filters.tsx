@@ -1,4 +1,4 @@
-import { useContext, useEffect, useState } from "react";
+import { useContext, useEffect, useState, useCallback } from "react";
 import RoleFilter from "./RoleFilter";
 import SelectedFilter from "./SelectedFilter";
 import { Models } from "../../types/main";
@@ -8,22 +8,21 @@ import ChampContext from "../ChampContext";
 const Filters = () => {
   const [hide, setHide] = useState<boolean>(false);
   const [selectedRole, setSelectedRole] = useState<Models.RolePosition>('any')
-  const { setChampions } = useContext(ChampContext)
+  const { champions, setChampions } = useContext(ChampContext)
 
   
+  const doFilter = useCallback(() => {   
+    return allChampions.filter(champ => {
+      let f = champ.roles.includes(selectedRole)
+      if (hide) f = f && !champ.selected;
+      return f;
+    })
+  }, [hide, selectedRole])
+
+  // Apply Role and Selection filters when either filter changes.
   useEffect(() => {
-    const filter = (champs: Models.Champion[]) => {
-      return champs.filter(champ => {
-        let f = champ.roles.includes(selectedRole)
-        if (hide) f = f && !champ.selected;
-        return f;
-      })
-    }
-
-
-    setChampions(filter(allChampions))
-
-  }, [hide, setChampions, selectedRole])
+    setChampions(doFilter());
+  }, [doFilter, champions, setChampions, selectedRole, hide])
 
   return (
     <div>
